@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ateios !</h1>
+<h1 align="center">Hi 👋, I'm Ateioss !</h1>
 <h3 align="center">A young programmer trying to be better at his craft hehe</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ateios&label=Profile%20views&color=0e75b6&style=flat" alt="ateios" /> </p>
