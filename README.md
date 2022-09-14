@@ -1,6 +1,12 @@
+<img align="center" src="https://user-images.githubusercontent.com/113120616/190220051-58171568-d131-41c7-b7d1-f320f1580530.png"/></a>
 
-<h1 align="center" "rgb(9, 105, 218)">W͚͆̏͜e͜͡l̘͆c͔̍o̅ͅm̳͔̓͒e͉̲͂̊ ̮̜̄͋t͓̜̓͊ö̝̖́̓ ̩͈̈́̇ä̰ ̗͇̉͆ģ͕̏̕a̋͜la͉̓xỵ̛̰͞ ̝͗f̲̟̍͡á͓̲̏r͉̹̈́̈, ͖̈́fa̦͋r͇̣̈͒ a̢͗w͇̐a̱̓͘ͅy̩͐.̐͢.̫͠.̤͔͆̐
-.͔̠̂͡</h1>
-<img  src="https://user-images.githubusercontent.com/113120616/190161849-c19c0721-dfa9-4f25-b11c-06c09c251980.png" /></a>
 
+<h1 align="center" "rgb(9, 105, 218)"> Ȋ̞n ̝̃a g̨͐al̫̎ḁ́x̳̀y ̙̈́f̧͊a̩̐r,͈͠ ̪̒f̥̉ar͍̊,̮̍ ̠͂a̭̚ẁ͎ay,͔̉ ͘͢we̗͡l̜̂c͖̈́ǫ͗ṁ̢e ͙̇t̄͢ȯ̠ ̗̆my̲͞ ̤̔lȧ̪ń̬ḍ͂... 
+
+
+
+https://open.spotify.com/album/2KSmsf4R53PyuswmXesR2k?si=eiSACNtJSzqa2qZ0HgVCqQ <h1 align="left">    Who i am ?  
+
+
+##### I'm a young programer je suis un jeune (et apprenti) programmeur de 20 voulant devenir meilleur chaque jour 
 
