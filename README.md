@@ -8,5 +8,5 @@
 https://open.spotify.com/album/2KSmsf4R53PyuswmXesR2k?si=eiSACNtJSzqa2qZ0HgVCqQ <h1 align="left">    Who i am ?  
 
 
-##### I'm a young programer je suis un jeune (et apprenti) programmeur de 20 voulant devenir meilleur chaque jour 
+##### je suis un jeune (et apprenti) programmeur de 20 voulant devenir meilleur chaque jour 
 
