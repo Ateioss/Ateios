@@ -5,7 +5,7 @@
 
 
 
-https://open.spotify.com/album/2KSmsf4R53PyuswmXesR2k?si=eiSACNtJSzqa2qZ0HgVCqQ <h1 align="left">    Who i am ?  
+https://open.spotify.com/album/2KSmsf4R53PyuswmXesR2k?si=eiSACNtJSzqa2qZ0HgVCqQ <h1 align="left">    Who i am ?  👽
 
 
 ##### Cher explorateur bienvenue sur ma planete ! Le voyage vous à-t'il été agréable ??? Je suis un jeune (et apprenti) programmeur de 20 ans, étudiant à l'IIM !
@@ -16,21 +16,19 @@ https://open.spotify.com/album/2KSmsf4R53PyuswmXesR2k?si=eiSACNtJSzqa2qZ0HgVCqQ 
 
   
   
-  <h1 align="left">   My projects ! 
+  <h1 align="left">   My projects ! 🛸
   
     
    ##### On my planet you will find some (i hope) interesting projects like :
    ##### - a what's app like website https://github.com/Ateioss/TD_presentation  
-   ##### - a one page describing one of my friend 
-   ##### and way more project are coming dear explorer 
-    
-    
-    
-    
-    
+   ##### - a one page describing one of my friends  
+   
+      
     
   <img align="center" src="https://user-images.githubusercontent.com/113120616/190894705-4604b2a3-57da-433b-b85e-a77dcc0045b8.gif"/></a>
-    
+   
+  
+  ##### and way more project are coming dear explorer
 
     
  
@@ -40,11 +38,8 @@ https://open.spotify.com/album/2KSmsf4R53PyuswmXesR2k?si=eiSACNtJSzqa2qZ0HgVCqQ 
  <h1 align="left">   My skills ! 
   
     
-   ##### On my planet you will find some (i hope) interesting projects like :
-   ##### - a what's app like website https://github.com/Ateioss/TD_presentation  
-   ##### - a one page describing one of my friend 
-   ##### and way more project are coming dear explorer (i will make my planet the greatest in the galaxy !)
-    
+   ##### As the king of my planet (a very lonely one since I'm the only one living here...) i need to have some qualifications ! these are some of them 
+  
     
     
     
