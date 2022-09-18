@@ -8,11 +8,16 @@
 https://open.spotify.com/album/2KSmsf4R53PyuswmXesR2k?si=eiSACNtJSzqa2qZ0HgVCqQ <h1 align="left">    Who i am ?  
 
   
-##### Aimant l'informatique et la programation j'essaye de m'intéresser à plusieurs languages touchant aussi bien le front que le back tout en ne me limitant pas au web 
 ##### Par ailleurs j'aime la littérature, l'art, les jeux vidéo, les sciences humaines la bande dessinée (manga/euro/comics) et tout ce qui est retro/vintage en général !  
 ##### Dear explorer welcome on my planet ! Is the travel was pleasant to you ? I am a young (and apprentice) computer programmer of 20 ! 
-##### I really like computers and programmation so I try to interest at several languages 
+##### I really like computers and programmation so I trying to be interested in several scripting languages as well as back than front end... But i dont limit myself on web-only languages though... 
+##### Also i like several other things like litterature, art, vidéo games, social studies, comics (Euro/American/Mangas) and everything that is retro/vintage in general 
   
+  
+<img align="center" src="https://user-images.githubusercontent.com/113120616/190921086-918bcdb2-f517-41ea-a37e-84b986501b4e.gif"/></a>
+     
+  
+##### So feel free to explore my world dear explorer !!!!   
 
   
   
@@ -21,7 +26,7 @@ https://open.spotify.com/album/2KSmsf4R53PyuswmXesR2k?si=eiSACNtJSzqa2qZ0HgVCqQ 
     
    ##### On my planet you will find some (i hope) interesting projects like :
    ##### - a what's app like website https://github.com/Ateioss/TD_presentation  
-   ##### - a one page describing one of my friend 
+   ##### - a one page describing one of my friends 
    ##### and way more project are coming dear explorer 
     
     
