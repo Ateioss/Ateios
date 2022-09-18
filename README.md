@@ -5,7 +5,7 @@
 
 
 
-https://open.spotify.com/album/2KSmsf4R53PyuswmXesR2k?si=eiSACNtJSzqa2qZ0HgVCqQ <h1 align="left">    Who i am ?  
+https://open.spotify.com/album/2KSmsf4R53PyuswmXesR2k?si=eiSACNtJSzqa2qZ0HgVCqQ <h1 align="left">    Who i am ?  👽
 
   
 ##### Par ailleurs j'aime la littérature, l'art, les jeux vidéo, les sciences humaines la bande dessinée (manga/euro/comics) et tout ce qui est retro/vintage en général !  
@@ -22,7 +22,7 @@ https://open.spotify.com/album/2KSmsf4R53PyuswmXesR2k?si=eiSACNtJSzqa2qZ0HgVCqQ 
 
   
   
-<h1 align="left">   My projects ! 
+<h1 align="left">   My projects ! 🛸
   
     
    ##### On my planet you will find some (i hope) interesting projects like :
