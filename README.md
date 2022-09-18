@@ -53,9 +53,7 @@ https://open.spotify.com/album/2KSmsf4R53PyuswmXesR2k?si=eiSACNtJSzqa2qZ0HgVCqQ 
     
 <h1 align="left">   In the end 🌌
   
-    
-   ##### On my planet you will find some (i hope) interesting projects like :
-   ##### - a what's app like website https://github.com/Ateioss/TD_presentation  
-   ##### - a one page describing one of my friends 
-   ##### and way more projects are coming dear explorer 
+  ##### So you have for now finished to visit my planet dear astronaut 👨‍🚀 ! But don't worry and come back again ! a lot of new things will be here soon ! 
+  
+  
   <img align="center" src="https://user-images.githubusercontent.com/113120616/190894705-4604b2a3-57da-433b-b85e-a77dcc0045b8.gif"/></a>
