@@ -7,7 +7,7 @@
 
 https://open.spotify.com/album/2KSmsf4R53PyuswmXesR2k?si=eiSACNtJSzqa2qZ0HgVCqQ <h1 align="left">    Who i am ?  👽
 
-  
+[![Spotify](https://ateioss.vercel.app/api/spotify)](https://open.spotify.com/user/ateos)
   
 ##### Dear explorer welcome on my planet ! Is the travel was pleasant to you ? I am a young (and apprentice) computer programmer of 20 ! 
 ##### I really like computers and programmation so I trying to be interested in several scripting languages as well as back than front end... But i dont limit myself on web-only languages though... 
