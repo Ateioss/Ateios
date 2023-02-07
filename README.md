@@ -4,10 +4,12 @@
 <h1 align="center" "rgb(9, 105, 218)"> Ȋ̞n ̝̃a g̨͐al̫̎ḁ́x̳̀y ̙̈́f̧͊a̩̐r,͈͠ ̪̒f̥̉ar͍̊,̮̍ ̠͂a̭̚ẁ͎ay,͔̉ ͘͢we̗͡l̜̂c͖̈́ǫ͗ṁ̢e ͙̇t̄͢ȯ̠ ̗̆my̲͞ ̤̔lȧ̪ń̬ḍ͂... 
 
 
-   Who i am ?  👽
-
-[![Spotify](https://ateioss.vercel.app/api/spotify)](https://open.spotify.com/user/ateos)
   
+
+
+
+<h1 align="left"> Who i am ?  👽  
+   
 ##### Dear explorer welcome on my planet ! Is the travel was pleasant to you ? I am a young (and apprentice) computer programmer of 20 ! 
 ##### I really like computers and programmation so I trying to be interested in several scripting languages as well as back than front end... But i dont limit myself on web-only languages though... 
 ##### Also i like several other things like litterature, art, vidéo games, social studies, comics (Euro/American/Mangas) and everything that is retro/vintage in general 
