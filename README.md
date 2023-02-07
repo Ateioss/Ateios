@@ -4,8 +4,7 @@
 <h1 align="center" "rgb(9, 105, 218)"> Ȋ̞n ̝̃a g̨͐al̫̎ḁ́x̳̀y ̙̈́f̧͊a̩̐r,͈͠ ̪̒f̥̉ar͍̊,̮̍ ̠͂a̭̚ẁ͎ay,͔̉ ͘͢we̗͡l̜̂c͖̈́ǫ͗ṁ̢e ͙̇t̄͢ȯ̠ ̗̆my̲͞ ̤̔lȧ̪ń̬ḍ͂... 
 
 
-
-https://open.spotify.com/album/2KSmsf4R53PyuswmXesR2k?si=eiSACNtJSzqa2qZ0HgVCqQ <h1 align="left">    Who i am ?  👽
+   Who i am ?  👽
 
 [![Spotify](https://ateioss.vercel.app/api/spotify)](https://open.spotify.com/user/ateos)
   
